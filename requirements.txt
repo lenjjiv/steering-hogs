@@ -1,0 +1,10 @@
+torch
+diffusers
+transformers
+pillow
+matplotlib
+ipywidgets
+accelerate
+hf_xet
+peft
+torchvision
