@@ -1,4 +1,4 @@
-# **# Cross-Attention Steering**
+# **Cross-Attention Steering**
 
 Авторское решение задачи [NEOAI 2025: The Hogspell Challenge](https://www.kaggle.com/competitions/neoai-2025-hogspell-challenge/overview).
 
@@ -129,6 +129,5 @@ img.save("steered.png")
 ## Благодарности
 
 * Метод основан на работе [**CASteer: Steering Diffusion Models for Controllable Generation**](https://arxiv.org/abs/2503.09630).
-* Также вдохновлено исследованиями steerability / HOGS (Higher-Order Guiding Signals).
 
 ---
